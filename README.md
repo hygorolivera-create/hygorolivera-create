@@ -18,12 +18,12 @@
 
 ## 📂 Projetos em Destaque
 
-### 🛡️ [AI Data Evaluation Portfolio](./link-para-sua-pasta-ou-arquivo)
-*Documentação de metodologias e datasets estruturados para treinamento de modelos.*
-- **Datasets em JSONL:** Exemplos prontos para SFT e RLHF.
-- **Relatórios de Red Teaming:** Casos práticos de identificação de vulnerabilidades.
-- **Guia de Alinhamento Cultural:** Adaptação de modelos globais para o contexto brasileiro.
+### 🛡️ [Portfólio de Avaliação de Dados de IA](https://github.com/hygorolivera-create/AI-Data-Evaluation-Portfolio)
 
+Documentação de metodologias e conjuntos de dados estruturados para treinamento de modelos.
+* **Datasets em JSONL:** Exemplos prontos para SFT e RLHF.
+* **Relatórios de Red Teaming:** Casos práticos de identificação de vulnerabilidades.
+* **Guia de Alinhamento Cultural:** Adaptação de modelos globais para o contexto brasileiro.
 ---
 
 ## 📊 Metodologia de Trabalho
