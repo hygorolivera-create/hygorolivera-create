@@ -1,31 +1,43 @@
-# Hi, I'm Hygor Oliveira 👋
-**AI Data Evaluation & Safety Specialist**
+# Olá, eu sou Hygor Oliveira 👋 
+### **AI Data Evaluation & Red Teaming Specialist**
 
-Professional dedicated to enhancing Large Language Models (LLMs) through rigorous testing, RLHF, and cultural alignment. I bridge the gap between global AI standards and the Brazilian Portuguese (PT-BR) market.
+> Profissional dedicado a aprimorar modelos de linguagem (LLMs) através de testes rigorosos, RLHF e alinhamento cultural. Faço a ponte entre padrões globais de IA e as nuances do mercado brasileiro (PT-BR).
 
-### 🛠️ Core Expertise
-- **Adversarial Testing:** Identifying safety bypasses and jailbreaks (Red Teaming).
-- **RLHF & SFT:** Generating "Golden Responses" and fine-tuning datasets in JSONL.
-- **Linguistic Quality:** Specialized in PT-BR nuances, regionalisms, and technical localization.
-- **Safety Auditing:** Evaluating HHH (Helpfulness, Honesty, Harmlessness) criteria.
+---
 
-### 📂 Featured Project
-- [AI Data Evaluation Portfolio](https://github.com/hygorolivera-create/AI-Data-Evaluation-Portfolio)
+## 🛠️ Especialização Técnica
 
-### 📫 Connect with me
-- **LinkedIn:** [linkedin.com/in/hygoroliveira](https://www.linkedin.com/in/hygoroliveira)
+| Área | Foco Principal | Ferramentas/Frameworks |
+| :--- | :--- | :--- |
+| **Red Teaming** | Testes adversariais e bypass de segurança | HHH (Helpfulness, Honesty, Harmlessness) |
+| **RLHF & SFT** | Respostas de Ouro e Fine-Tuning | JSONL Datasets, Prompt Engineering |
+| **Qualidade de Dados** | Nuances de PT-BR e localização técnica | Multimodal Labeling, Taxonomy |
+| **Auditoria de IA** | Segurança, ética e alinhamento cultural | Adversarial Attacks, Safety Evaluation |
 
-<!--
-**hygorolivera-create/hygorolivera-create** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 📂 Projetos em Destaque
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛡️ [AI Data Evaluation Portfolio](./link-para-sua-pasta-ou-arquivo)
+*Documentação de metodologias e datasets estruturados para treinamento de modelos.*
+- **Datasets em JSONL:** Exemplos prontos para SFT e RLHF.
+- **Relatórios de Red Teaming:** Casos práticos de identificação de vulnerabilidades.
+- **Guia de Alinhamento Cultural:** Adaptação de modelos globais para o contexto brasileiro.
+
+---
+
+## 📊 Metodologia de Trabalho
+Meu processo de avaliação garante que a IA seja não apenas inteligente, mas **segura** e **contextualizada**:
+1. **Stress Test:** Simulação de interações maliciosas (jailbreak).
+2. **Refinamento HHH:** Auditoria baseada em Utilidade, Honestidade e Inofensividade.
+3. **Localização:** Ajuste de tom de voz e regionalismos brasileiros.
+
+---
+
+## 📫 Vamos nos conectar?
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hygoroliveira)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hygorolivera-create)
+
+---
+*“Transformando dados brutos em inteligência segura e culturalmente alinhada.”*
