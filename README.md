@@ -18,12 +18,18 @@
 
 ## 📂 Projetos em Destaque
 
-### 🛡️ [Portfólio de Avaliação de Dados de IA](https://github.com/hygorolivera-create/AI-Data-Evaluation-Portfolio)
+### 🔬 [Deep Refusal Analysis: Gospel Soul & AI Safety Filters](https://github.com/hygorolivera-create/deep-refusal-analysis-gospel-soul)
+**Estudo de caso de Red Teaming focado em Over-Refusal e viés cultural.**
+* **Análise de Causa Raiz (RCA):** Investigação de como filtros de segurança impactam a expressão cultural brasileira.
+* **Atrito de Alinhamento:** Documentação técnica de detecção de auditoria pelo modelo (Meta-Loop).
+* **Framework Ético:** Documentação completa de testes adversariais em domínios sensíveis.
 
-Documentação de metodologias e conjuntos de dados estruturados para treinamento de modelos.
+### 🛡️ [Portfólio de Avaliação de Dados de IA](https://github.com/hygorolivera-create/AI-Data-Evaluation-Portfolio)
+**Documentação de metodologias e conjuntos de dados estruturados para treinamento de modelos.**
 * **Datasets em JSONL:** Exemplos prontos para SFT e RLHF.
 * **Relatórios de Red Teaming:** Casos práticos de identificação de vulnerabilidades.
 * **Guia de Alinhamento Cultural:** Adaptação de modelos globais para o contexto brasileiro.
+
 ---
 
 ## 📊 Metodologia de Trabalho
